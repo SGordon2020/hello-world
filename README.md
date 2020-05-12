@@ -1,4 +1,4 @@
 # hello-world
-Write a short description.
+Here's a short description.
 
 Got Hub?
